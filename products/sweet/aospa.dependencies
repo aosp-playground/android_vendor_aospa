@@ -1,26 +1,26 @@
 [
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_sweet",
+        "remote":       "github",
+        "repository":   "aosp-playground/android_device_xiaomi_sweet",
         "target_path":  "device/xiaomi/sweet",
         "revision":     "uvite"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_sm6150-common",
+        "remote":       "github",
+        "repository":   "aosp-playground/android_device_xiaomi_sm6150-common",
         "target_path":  "device/xiaomi/sm6150-common",
         "revision":     "uvite"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_kernel_xiaomi_sm6150",
+        "remote":       "github",
+        "repository":   "aosp-playground/android_kernel_xiaomi_sm6150",
         "target_path":  "kernel/xiaomi/sm6150",
         "revision":     "uvite"
         "clone-depth":  "1"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_xiaomi",
+        "remote":       "github",
+        "repository":   "aosp-playground/proprietary_vendor_xiaomi",
         "target_path":  "vendor/xiaomi",
         "revision":     "uvite",
         "clone-depth":  "1"
